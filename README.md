@@ -47,5 +47,7 @@ where:
 - **Policy (actor):** Updated using the clipped surrogate objective.  
 - **Value function (critic):** Updated using MSE loss:  
 
+<img width="850" height="470" alt="image" src="https://github.com/user-attachments/assets/39c82f59-d12d-4bfe-bb0b-208ca0e5c6e9" />
+
 
 
